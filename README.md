@@ -1,1 +1,1 @@
-# Divisible-Sum-Pairs
+# Divisible-Sum-Pairs This code counts the number of pairs `(i, j)` in the list `ar` where `i < j` and the sum of `ar[i] + ar[j]` is divisible by `k`. It uses nested loops to check all possible pairs and increments a counter whenever the divisibility condition is met.
